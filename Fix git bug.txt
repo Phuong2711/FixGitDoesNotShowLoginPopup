@@ -11,4 +11,5 @@ Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SecurityProviders\S
 DisabledByDefault:0
 *************Không hiện popup login mỗi lần Push ***********
 git config --global credential.helper store
+************************************************************
 
